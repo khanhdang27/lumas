@@ -1,0 +1,21 @@
+const Map<String, String> en = {
+  'phone': 'Phone number',
+  'password': 'Password',
+  'forgotPassword': 'Forgot Password',
+  'login': 'Login',
+  'logout': 'Logout',
+  'signUp': 'No account? Register',
+  'home': 'Home',
+  'profile': 'Profile',
+  'name': 'Name',
+  'email': 'Email',
+  'userName': 'Username',
+  'confirmPassword': 'Confirm password',
+  'register': 'Register',
+  'verifyPhone': 'Verifying phone number',
+  'weHaveSentOtp': 'We have sent an OTP your phone number:',
+  'enterPhoneForgot': 'Enter your phone below to reset your password',
+  'emptyPhone': 'Please, enter a valid phone',
+  'forStaffOnly': 'For staff only',
+  'forClient': 'For Client'
+};
